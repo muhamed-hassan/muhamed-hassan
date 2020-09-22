@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Java Software Engineer with +4 years of professional experience in backend development of enterprise 
+applications whether on premises or cloud based with focus on high quality, well-designed, maintainable and working software 
+by adhering to most common software practices and standards.
+
 <!--
 **muhamed-hassan/muhamed-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
