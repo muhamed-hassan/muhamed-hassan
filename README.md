@@ -4,6 +4,10 @@ I'm a Java Software Engineer with +4 years of professional experience in backend
 applications whether on premises or cloud based with focus on high quality, well-designed, maintainable and working software 
 by adhering to the most common software practices and standards.
 
+- Worked in an Agile environment using Scrum as a software development process.
+- Worked with international teams/clients based in different locations like Middle East, Europe and USA using both my native language and in English.
+- Worked with various business domains like commercial insurance, ERP (HRMS) and others.
+
 <!--
 **muhamed-hassan/muhamed-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
