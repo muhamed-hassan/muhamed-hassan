@@ -5,7 +5,7 @@ applications whether on premises or cloud based with focus on high quality, well
 by adhering to the most common software practices and standards.
 
 - Worked in an Agile environments using Scrum as a software development process.
-- Worked with international teams/clients based in different locations like Middle East, Europe and USA using both my native language and in English.
+- Worked with international teams/clients based in different locations like Middle East, Europe and USA.
 - Worked with various business domains like commercial insurance, ERP (HRMS) and others.
 
 <!--
