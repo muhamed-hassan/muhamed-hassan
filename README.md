@@ -4,7 +4,7 @@ I'm a Java Software Engineer with +4 years of professional experience in backend
 applications whether on premises or cloud based with focus on high quality, well-designed, maintainable and working software 
 by adhering to the most common software practices and standards.
 
-- Worked in an Agile environments using Scrum as a software development process.
+- Worked in an Agile environments using Scrum/Kanban as a software development process.
 - Worked with international teams/clients based in different locations like Middle East, Europe and USA.
 - Worked with various business domains like commercial insurance, ERP (HRMS) and others.
 
