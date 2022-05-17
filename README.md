@@ -4,7 +4,7 @@ I'm a Software Engineer with several years of professional experience in backend
 
 - Worked in an Agile environments using Scrum/Kanban as a software development process.
 - Worked with international teams/clients based in different locations like Middle East, Europe and USA.
-- Worked with various business domains like commercial insurance, ERP (HRMS) and others.
+- Worked with various business domains like travelling, mobile messaging, commercial insurance and ERP (HRMS).
 
 <!--
 **muhamed-hassan/muhamed-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
