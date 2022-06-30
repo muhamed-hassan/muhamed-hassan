@@ -6,6 +6,8 @@ Software Engineer with several years of professional experience in backend devel
 - Worked with international teams/clients based in different locations like Middle East, Europe and USA.
 - Worked with various business domains like travelling, mobile messaging, commercial insurance and ERP (HRMS).
 
+Talk is Cheap | Show me the code |=> 👨🏻‍💻 🙌🏼 💪🏼
+
 <!--
 **muhamed-hassan/muhamed-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
