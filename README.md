@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Engineer with several years of professional experience in java backend development of enterprise applications using Spring Boot or Java EE whether on premises or cloud based with focus on high quality, well-designed, maintainable and working software by adhering to the most common software practices and standards.
+Software Engineer with several years of professional experience in Java backend development of enterprise applications using Spring Boot or Java EE whether on premises or cloud based with focus on high quality, well-designed, maintainable and working software by adhering to the most common software practices and standards.
 
 - Worked with international teams/clients based in different locations like Middle East, Europe and USA.
 - Worked with various business domains like banking, traveling, mobile messaging, commercial insurance and ERP (HRMS).
