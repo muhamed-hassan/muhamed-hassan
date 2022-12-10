@@ -8,7 +8,7 @@ Software Engineer with several years of professional experience in Java backend 
 
 Talk is Cheap | Show me the code |=> 👨🏻‍💻 🙌🏼 💪🏼
 
-The repositories in this account are [open sourced](https://en.wikipedia.org/wiki/Open-source_license) 🙌💪 as a charity activity not to be sponsored or funded via any entity, just abstract the technique and customize based on your business (business defined as a group of legal, ethical and educated families. In the mean time there is a mix inside each business across the globe. However it's a matter of time till a full separation is made.) need in the future when a [Java-Backend-Corporates](https://github.com/muhamed-hassan/specialized-software-development-company-java-backend) get established 🤲💪😇🏎💲🌍💯.  
+The repositories in this account are [open sourced](https://en.wikipedia.org/wiki/Open-source_license) 🙌💪 as a charity activity not to be sponsored or funded via any entity, just abstract the technique and customize based on your business (`business defined as a group of legal, ethical and educated families to support the society via their doings and themselves. In the mean time there is a mix inside each business across the globe. However it's a matter of time till a full separation is made.`) need in the future when a [Java-Backend-Corporates](https://github.com/muhamed-hassan/specialized-software-development-company-java-backend) get established 🤲💪😇🏎💲🌍💯.  
 
 <!--
 **muhamed-hassan/muhamed-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
