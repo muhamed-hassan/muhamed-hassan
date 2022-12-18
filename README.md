@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/muhamed-hassan" rel="nofollow"><img src="https://camo.githubusercontent.com/671ab2ca30a2f0ad61c7332432807e679e6feca66a65d7fa88146d225853b1e6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f636f6c6f723d726564266c6162656c3d6c696e6b6564696e266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765266d6573736167653d436f6e6e656374" alt="LinkedIn URL" data-canonical-src="https://img.shields.io/static/v1?color=red&amp;label=linkedin&amp;logo=linkedin&amp;logoColor=white&amp;style=for-the-badge&amp;message=Connect" style="max-width: 100%;"></a>
+
 Software Engineer with several years of professional experience in Java backend development of enterprise applications using Spring Boot or Java EE with focus on high quality, well-designed, maintainable and working software by adhering to the most common software practices and standards.
 
 - Worked with international teams/clients across the globe like the Middle East, Russia, Europe and USA.
