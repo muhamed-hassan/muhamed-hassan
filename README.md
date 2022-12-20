@@ -1,4 +1,4 @@
-![wp1975499](https://user-images.githubusercontent.com/17825804/208599690-e51bf862-2fda-43ef-892c-3a00d83366b5.jpg)
+![wp1975499](https://user-images.githubusercontent.com/17825804/208600470-80adc844-8a9f-441b-b26b-200b29feac41.jpg)
 
 Software Engineer with several years of professional experience in Java backend development of enterprise applications using Spring Boot or Java EE with focus on high quality, well-designed, maintainable and working software by adhering to the most common software practices and standards.
 
