@@ -4,7 +4,13 @@ Software Engineer with several years of professional experience in Java backend 
 
 - Worked with international teams/clients across the globe like the Middle East, Russia, Europe and USA.
 - Worked with various business domains like banking, traveling, mobile messaging, commercial insurance and ERP (HRMS).
-- Involved in the software development activities from end to end like participating in the requirements refinement sessions at beginning of the sprint, developing required features, participating in the code review for other colleagues, helping newcomers during their onboarding, attending daily standups to notify my supervisor with my progress so he/she can be aware about my work buffer beside that my teammates become aware about my work especially if there is a shared work along with my task, and attending retrospective meetings at the end of each sprint to discuss the progress of finished tasks and to see if we can improve our process in the next sprint or not to deliver in a faster and more efficient way.
+- Involved in the software development activities from end to end like: 
+  - participating in the requirements refinement sessions at beginning of the sprint, 
+  - developing required features, 
+  - participating in the code review for other colleagues, 
+  - helping newcomers during their onboarding, 
+  - attending daily standups to notify my supervisor with my progress so he/she can be aware about my work buffer beside that my teammates become aware about my work especially if there is a shared work along with my task, 
+  - attending retrospective meetings at the end of each sprint to discuss the progress of finished tasks to see if we can improve our process in the next sprint or not to deliver in a faster and more efficient way.
 
 Talk is Cheap | Show me the code |=> 👨🏻‍💻 🙌🏼 💪🏼
 
