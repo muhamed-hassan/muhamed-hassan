@@ -19,16 +19,6 @@ The repositories in this account are [open sourced](https://en.wikipedia.org/wik
 **`Business defined as a group of legal, ethical and educated families to support the society via their doings and themselves. In the mean time there is a mix inside each business across the globe. However it's a matter of time till a full separation is made.`**
 
 [**`🦇 BATMAN`**](https://github.com/muhamed-hassan/safe_planet/wiki/sample-of-biography)
-* [Sample 1](https://www.youtube.com/watch?v=_8xDtjlR3ek)
-* [Sample 2](https://www.youtube.com/watch?v=C0BMx-qxsP4)
-* [Sample 3](https://www.youtube.com/watch?v=sbSsuyQ-1do)
-* [Sample 4](https://www.youtube.com/watch?v=pXwaKB7YOjw)
-* [Sample 5](https://www.youtube.com/watch?v=uL2EJwOlVDc)
-* [Sample 6](https://www.youtube.com/watch?v=fkPJ3aENjvM)
-* [Sample 7](https://www.youtube.com/watch?v=7-wAzlqzXH0)
-* [Sample 8](https://www.youtube.com/watch?v=EJQPFtTUqJY)
-* [Sample 9](https://www.youtube.com/watch?v=DZ7m6KLcuWU)
-* [Sample 10](https://www.youtube.com/watch?v=KYhJZu_dcVE)
 
 ![4576338-bugatti-bugatti-veyron-super-sport-car](https://user-images.githubusercontent.com/17825804/213091254-31ffd3a1-2687-467d-83cb-f7259ea5b5e3.jpg)
 
