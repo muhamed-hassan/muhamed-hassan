@@ -18,7 +18,7 @@ The repositories in this account are [open sourced](https://en.wikipedia.org/wik
 
 **`Business defined as a group of legal, ethical and educated families to support the society via their doings and themselves. In the mean time there is a mix inside each business across the globe. However it's a matter of time till a full separation is made.`**
 
-[**`🦇 BATMAN`**](https://en.wikipedia.org/wiki/Batman)
+[**`🦇 BATMAN`**](https://github.com/muhamed-hassan/safe_planet/wiki/sample-of-biography)
 * [Sample 1](https://www.youtube.com/watch?v=_8xDtjlR3ek)
 * [Sample 2](https://www.youtube.com/watch?v=C0BMx-qxsP4)
 * [Sample 3](https://www.youtube.com/watch?v=sbSsuyQ-1do)
