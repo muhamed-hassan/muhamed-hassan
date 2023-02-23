@@ -26,6 +26,7 @@ The repositories in this account are [open sourced](https://en.wikipedia.org/wik
 * [Sample 5](https://www.youtube.com/watch?v=uL2EJwOlVDc)
 * [Sample 6](https://www.youtube.com/watch?v=fkPJ3aENjvM)
 * [Sample 7](https://www.youtube.com/watch?v=7-wAzlqzXH0)
+* [Sample 8](https://www.youtube.com/watch?v=EJQPFtTUqJY)
 
 ![4576338-bugatti-bugatti-veyron-super-sport-car](https://user-images.githubusercontent.com/17825804/213091254-31ffd3a1-2687-467d-83cb-f7259ea5b5e3.jpg)
 
