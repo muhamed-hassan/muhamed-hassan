@@ -24,7 +24,7 @@ The repositories in this account are [open sourced](https://en.wikipedia.org/wik
 
 [**`🦇 BATMAN`**](https://github.com/muhamed-hassan/safe_planet/wiki/sample-of-biography)
 
-![4576338-bugatti-bugatti-veyron-super-sport-car](https://user-images.githubusercontent.com/17825804/213091254-31ffd3a1-2687-467d-83cb-f7259ea5b5e3.jpg)
+![maserati_mc20_notte_coupe_5k-HD](https://github.com/muhamed-hassan/muhamed-hassan/assets/17825804/684e8979-4c6f-4d04-bbbd-1f7babc737fb)
 
 <!--
 **muhamed-hassan/muhamed-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
