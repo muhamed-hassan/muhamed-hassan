@@ -26,6 +26,10 @@ The repositories in this account are [open sourced](https://en.wikipedia.org/wik
 
 ![maserati_mc20_notte_coupe_5k-HD](https://github.com/muhamed-hassan/muhamed-hassan/assets/17825804/684e8979-4c6f-4d04-bbbd-1f7babc737fb)
 
+***
+
+![gettyimages-sb10069274b-004-2048x2048](https://github.com/muhamed-hassan/safe_planet/assets/17825804/8d304f26-efd8-4787-9570-714ef570a205)
+
 <!--
 **muhamed-hassan/muhamed-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
