@@ -26,7 +26,7 @@ To expand 🎅 the **`open-source community`** across the globe 🌍 about the v
 
 [**`🦇 BATMAN`**](https://github.com/muhamed-hassan/safe_planet/wiki/sample-of-biography)
 
-![maserati_mc20_notte_coupe_5k-HD](https://github.com/muhamed-hassan/muhamed-hassan/assets/17825804/684e8979-4c6f-4d04-bbbd-1f7babc737fb)
+![Open-Source-Word-Cloud-1](https://github.com/user-attachments/assets/43fc4f35-3d81-48e3-a15c-62ee08e2ad81)
 
 ***
 
