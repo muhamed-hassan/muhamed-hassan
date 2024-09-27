@@ -1,3 +1,9 @@
+### Life wisdom:
+
+"We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us."
+
+***
+
 ![wp1975499](https://user-images.githubusercontent.com/17825804/208600470-80adc844-8a9f-441b-b26b-200b29feac41.jpg)
 
 Software Engineer with several years of professional experience in Java backend development of enterprise applications using Spring Boot or Java EE with focus on high quality, well-designed, maintainable and working software by adhering to the most common software practices and standards.
