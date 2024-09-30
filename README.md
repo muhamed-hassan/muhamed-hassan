@@ -2,6 +2,8 @@
 
 "We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us."
 
+**SELF-STUDY** materials are made to fuck the countryside savage dogs who are not educated at all and do nasty things when they become instructor if they worked as teacher, teaching assistant, professor, ... etc. As not knowing its specialization or the contents of the topic under its discussion AKA an ignorant person. Wasting time in going a lot to bathroom or taking a lot of unjustified vacations. Suffering from hangover during the session to its audience. Wearing improper clothes as nomadic ones like [strange-formal-suits](https://en.wikipedia.org/wiki/Suit) or [gelbab](https://en.wikipedia.org/wiki/Jilb%C4%81b), ... etc - which in turns produces negative energy during the session. Speaking like thugs using improper voice tone. Not being on time. Start terrorizing kids, while when those kids grow up a bit, they start fucking it.
+
 ***
 
 ![wp1975499](https://user-images.githubusercontent.com/17825804/208600470-80adc844-8a9f-441b-b26b-200b29feac41.jpg)
