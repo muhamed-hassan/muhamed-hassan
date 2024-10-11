@@ -2,7 +2,17 @@
 
 "We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us."
 
-[**SELF-STUDY**](https://en.wikipedia.org/wiki/Autodidacticism) materials are made to fuck (هينيك ويذل فى دين أمك) the countryside savage dogs who are not educated at all and do nasty things when they become [instructor if they worked as teacher, teaching assistant, professor, ... etc](https://github.com/muhamed-hassan/safe_planet/wiki/Crazy-instructors). As not knowing its specialization or the contents of the topic under its discussion AKA an ignorant person. Wasting time in going a lot to bathroom or taking a lot of unjustified vacations. Suffering from hangover during the session to its audience. [Wearing improper clothes as nomadic ones](https://github.com/muhamed-hassan/specialized-software-development-company-java-backend/wiki/Improper-clothes-to-conduct-business), which in turn produces negative energy during the session. Speaking like thugs using improper voice tone. Not being on time. Start [terrorizing](https://en.wikipedia.org/wiki/Terrorism) kids, while when those kids grow up a bit, they start fucking them (هيفشخوا دين أهلكم يا ولاد المعرصين يا جهلة يا مرتدين يا كفرة).
+[**SELF-STUDY**](https://en.wikipedia.org/wiki/Autodidacticism) materials are made to fuck (هينيك ويذل فى دين أمك) the countryside savage dogs who are not educated at all and do nasty things when they become [instructor if they worked as teacher, teaching assistant, professor, ... etc](https://github.com/muhamed-hassan/safe_planet/wiki/Crazy-instructors). 
+
+Their shit 💩 can be:
+
+* not knowing its specialization or the contents of the topic under its discussion AKA an ignorant person.
+* wasting time in going a lot to bathroom or taking a lot of unjustified vacations.
+* suffering from hangover during the session to its audience.
+* [wearing improper clothes as nomadic ones](https://github.com/muhamed-hassan/specialized-software-development-company-java-backend/wiki/Improper-clothes-to-conduct-business), which in turn produces negative energy during the session.
+* speaking like thugs using improper voice tone.
+* not being on time.
+* [terrorizing](https://en.wikipedia.org/wiki/Terrorism) kids, while when those kids grow up a bit, they start fucking them (هيفشخوا دين أهلكم يا ولاد المعرصين يا جهلة يا مرتدين يا كفرة).
 
 ***
 
