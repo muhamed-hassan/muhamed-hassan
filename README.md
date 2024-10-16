@@ -53,7 +53,7 @@ To expand 🎅 the **`open-source community`** across the globe 🌍 about the v
 ***
 ***
 
-Please note that references are not studied from page 1 till the end. It's called a reference to hold a huge amount of knowledge. To use it properly without exhausting yourself, you have to check the index of the reference first, then check the details of the topic you want. That's why education is important and you should get education from an instructor at the first place, before moving to self-study mode to make sure you absorbed the knowledge well and be able to apply it in your life later well.
+Please note that references (book with a huge amount of knowledge in certain domain) are not studied from page 1 till the end. It's called a reference to hold a huge amount of knowledge. To use it properly without exhausting yourself, you have to check the [index](https://en.wikipedia.org/wiki/Index_(publishing)) of the reference first, then check the details of the topic you want. That's why education is important and you should get education from an instructor at the first place, before moving to self-study mode to make sure you absorbed the knowledge well and be able to apply it in your life later well.
 
 <!--
 **muhamed-hassan/muhamed-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
