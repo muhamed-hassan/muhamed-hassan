@@ -50,6 +50,11 @@ To expand 🎅 the **`open-source community`** across the globe 🌍 about the v
 
 ![gettyimages-sb10069274b-004-2048x2048](https://github.com/muhamed-hassan/safe_planet/assets/17825804/8d304f26-efd8-4787-9570-714ef570a205)
 
+***
+***
+
+Please note that references are not studied from page 1 till the end. It's called a reference to hold a huge amount of knowledge. To use it properly without exhausting yourself, you have to check the index of the reference first, then check the details of the topic you want. That's why education is important and you should get education from an instructor at the first place, before moving to self-study mode to make sure you absorbed the knowledge well and be able to apply it in your life later well.
+
 <!--
 **muhamed-hassan/muhamed-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
