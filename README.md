@@ -30,7 +30,9 @@ Distinguished Engineer with several years of professional experience in Java bac
   - attending daily standups to notify my supervisor with my progress so he/she can be aware about my work buffer beside that my teammates become aware about my work especially if there is a shared work along with my task, 
   - attending retrospective meetings at the end of each sprint to discuss the progress of finished tasks to see if we can improve our process in the next sprint or not to deliver in a faster and more efficient way.
 
-Talk is Cheap | Show me the code |=> 👨🏻‍💻 🙌🏼 💪🏼
+### Life wisdom: 😇 🎅
+
+**`Talk is Cheap | Show me the code |=> 👨🏻‍💻 🙌🏼 💪🏼`** which means you can detect the mother fucker thug from his\her fake code samples which acts originaly as an undercover terrorist inside the job market using templated profiles to decieve others in order to corrupt a country.
 
 The repositories in this account are [open sourced](https://en.wikipedia.org/wiki/Open-source_license) 🙌 💪 as a charity activity not to be sponsored or funded via any entity. Just abstract the technique and customize based on your business need in the future when a [standalone corporates](https://github.com/muhamed-hassan/specialized-software-development-company-java-backend) like banks get established or similar ones for recognized technologies via governing systems 🤲 💪 😇 🏎 💲 🌍 💯.  
 
