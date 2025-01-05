@@ -32,7 +32,7 @@ Distinguished Engineer with several years of professional experience in Java bac
 
 ### Life wisdom: 😇 🎅
 
-**`Talk is Cheap | Show me the code |=> 👨🏻‍💻 🙌🏼 💪🏼`** which means you can detect the mother fucker thug from his\her fake code samples which acts originaly as an undercover terrorist inside the job market using templated profiles to decieve others in order to corrupt a country.
+**`Talk is Cheap | Show me the code |=> 👨🏻‍💻 🙌🏼 💪🏼`** which means you can detect the mother fucker thug from his\her fake code samples which acts originaly as an undercover terrorist inside the job market using templated profiles to decieve others in order to corrupt a country. الفلاحين البرية الغير مستأنسة الغير قابلة للترويض أى كلاب همجية ولا يصح معاملتهم كبشريين.
 
 The repositories in this account are [open sourced](https://en.wikipedia.org/wiki/Open-source_license) 🙌 💪 as a charity activity not to be sponsored or funded via any entity. Just abstract the technique and customize based on your business need in the future when a [standalone corporates](https://github.com/muhamed-hassan/specialized-software-development-company-java-backend) like banks get established or similar ones for recognized technologies via governing systems 🤲 💪 😇 🏎 💲 🌍 💯.  
 
