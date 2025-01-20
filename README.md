@@ -1,3 +1,5 @@
+![giphy](https://github.com/user-attachments/assets/8d4b295f-9cf5-4f56-883e-718699c8e489)
+
 ### Life wisdom: 😇 🎅
 
 "We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us."
