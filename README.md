@@ -4,6 +4,8 @@
 
 "We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us."
 
+"Strong man 😇, strong alone 💪. Not as countryside savage dogs do."
+
 [**SELF-STUDY**](https://en.wikipedia.org/wiki/Autodidacticism) materials are made to fuck (هينيك ويذل فى دين أمك) the countryside savage dogs who are not educated at all and do nasty things when they become [instructor if they worked as teacher, teaching assistant, professor, ... etc](https://github.com/muhamed-hassan/safe_planet/wiki/Crazy-instructors). 
 
 Their shit 💩 can be:
