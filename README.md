@@ -22,7 +22,7 @@ Their shit 💩 can be:
 
 ![wp1975499](https://user-images.githubusercontent.com/17825804/208600470-80adc844-8a9f-441b-b26b-200b29feac41.jpg)
 
-Distinguished Engineer with several years of professional experience in Java backend development of enterprise applications in domains as telecom, banking, and ERP using Spring or Java EE with focus on high quality, well-designed, maintainable and working software by adhering to the most common software practices and standards.
+Software developer with several years of professional experience in Java backend development of enterprise applications in domains as telecom, banking, and ERP using Spring or Java EE with focus on high quality, well-designed, maintainable and working software by adhering to the most common software practices and standards.
 
 - Worked with international teams/clients across the globe like the Middle East, Russia, Europe and USA.
 - Worked with various business domains like banking, traveling, mobile messaging, commercial insurance and ERP (HRMS).
