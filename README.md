@@ -48,6 +48,10 @@ To expand 🎅 the **`open-source community`** across the globe 🌍 about the v
 
 ***
 
+[Sample from faculty of commerce graduates 💪 🧠](https://youtu.be/lqpwKM7gdhw?si=DzqkbCZLKgwQ5LvM) 
+
+***
+
 ### [`🦇 BATMAN`](https://github.com/muhamed-hassan/safe_planet/wiki/sample-of-biography)
 
 ![Open-Source-Word-Cloud-1](https://github.com/user-attachments/assets/43fc4f35-3d81-48e3-a15c-62ee08e2ad81)
