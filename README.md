@@ -33,6 +33,15 @@ Distinguished engineer with several years of professional experience in Java bac
   - helping newcomers during their onboarding, 
   - attending daily standups to notify my supervisor with my progress so he/she can be aware about my work buffer beside that my teammates become aware about my work especially if there is a shared work along with my task, 
   - attending retrospective meetings at the end of each sprint to discuss the progress of finished tasks to see if we can improve our process in the next sprint or not to deliver in a faster and more efficient way.
+ 
+### Java technologies stack: 
+  - Backend development
+  - Java programming language
+  - Spring framework (Spring boot)
+  - RDBMS: MySQL server
+  - Virtualization (vmware and Linux server[Ubuntu])
+  - Containerization (Kubernetes and Docker)
+  - Deployment automation (Jenkins)
 
 ### Life wisdom: 😇 🎅
 
@@ -40,7 +49,7 @@ Distinguished engineer with several years of professional experience in Java bac
 
 The repositories in this account are [open sourced](https://en.wikipedia.org/wiki/Open-source_license) 🙌 💪 as a charity activity not to be sponsored or funded via any entity. Just abstract the technique and customize based on your business need in the future when a [standalone corporates](https://github.com/muhamed-hassan/specialized-software-development-company-java-backend) like banks get established or similar ones for recognized technologies via governing systems 🤲 💪 😇 🏎 💲 🌍 💯.  
 
-To expand 🎅 the **`open-source community`** across the globe 🌍 about the verified ✅ 💯 technlogies that are mentioned in my Github-account and approved via governments and be taught inside their universities besides their stolen extenstions that are not yet taught, and discussing how to fuck the [mother fucker countryside savage dogs](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder) regarding unstable [computer science department](https://github.com/muhamed-hassan/faculty_of_engineering). Just email 📧 me for further details.
+To expand 🎅 the **`open-source community`** across the globe 🌍 about the verified ✅ 💯 technlogies that are mentioned in my Github-account and approved via governments and be taught inside their universities besides their stolen extenstions that are not yet taught, and discussing how to fuck the [mother fucker countryside savage dogs](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder) regarding unstable [computer science department](https://github.com/muhamed-hassan/faculty_of_engineering).
 
 **`Business defined as a group of legal, ethical and educated families to support the society via their doings and themselves. In the mean time there is a mix inside each business across the globe. However it's a matter of time till a full separation is made.`**
 
