@@ -22,10 +22,10 @@ Their shit 💩 can be:
 
 ![wp1975499](https://user-images.githubusercontent.com/17825804/208600470-80adc844-8a9f-441b-b26b-200b29feac41.jpg)
 
-Software developer with several years of professional experience in Java backend development of enterprise applications in domains as telecom, banking, and ERP using Spring or Java EE with focus on high quality, well-designed, maintainable and working software by adhering to the most common software practices and standards.
+Distinguished engineer with several years of professional experience in Java backend development of enterprise applications using various Java technologies stack with focus on high quality, well-designed, maintainable and working software by adhering to the most common software practices and standards.
 
 - Worked with international teams/clients across the globe like the Middle East, Russia, Europe and USA.
-- Worked with various business domains like banking, traveling, mobile messaging, commercial insurance and ERP (HRMS).
+- Worked with various business domains as telecom, banking, and ERP.
 - Involved in the software development activities from end to end like: 
   - participating in the requirements refinement sessions at beginning of the sprint, 
   - developing required features, 
