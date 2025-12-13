@@ -35,12 +35,13 @@ Distinguished engineer with several years of professional experience in Java bac
   - attending retrospective meetings at the end of each sprint to discuss the progress of finished tasks to see if we can improve our process in the next sprint or not to deliver in a faster and more efficient way.
  
 ### Java technologies stack: 
-  - Backend development [Java programming language and Spring framework (Spring boot)]
-  - RDBMS (MySQL server)
-  - Message broker (ActiveMQ)
-  - Virtualization [vmware and Linux server (Ubuntu)]
-  - Containerization (Kubernetes and Docker)
-  - Deployment automation (Jenkins)
+  - **Backend development** [Java programming language and Spring framework (Spring boot)]
+  - **Building tool** (Maven)
+  - **RDBMS** (MySQL server)
+  - **Message broker** (ActiveMQ)
+  - **Virtualization** [vmware and Linux server (Ubuntu)]
+  - **Containerization** (Kubernetes and Docker)
+  - **Deployment automation** (Jenkins)
 
 ### Life wisdom: 😇 🎅
 
