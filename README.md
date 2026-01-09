@@ -55,7 +55,7 @@ To expand 🎅 the **`open-source community`** across the globe 🌍 about the v
 
 ***
 
-### [`🦇 BATMAN`](https://github.com/muhamed-hassan/safe_planet/wiki/sample-of-biography)
+# [`🦇 BATMAN`](https://github.com/muhamed-hassan/safe_planet/wiki/sample-of-biography)
 
 ![Open-Source-Word-Cloud-1](https://github.com/user-attachments/assets/43fc4f35-3d81-48e3-a15c-62ee08e2ad81)
 
