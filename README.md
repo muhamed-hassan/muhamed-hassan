@@ -22,26 +22,23 @@ Their shit 💩 can be:
 
 ![wp1975499](https://user-images.githubusercontent.com/17825804/208600470-80adc844-8a9f-441b-b26b-200b29feac41.jpg)
 
-Distinguished engineer with several years of professional experience in Java backend development of enterprise applications using various Java technologies stack with focus on high quality, well-designed, maintainable and working software by adhering to the most common software practices and standards.
+**Distinguished engineer** with several years of professional experience in Java backend development of enterprise applications using various Java technologies stack with focus on high quality, well-designed, maintainable and working software by adhering to the most common software practices and standards.
 
-- Worked with international teams/clients across the globe like the Middle East, Russia, Europe and America.
-- Worked with various business domains as telecom, banking, and ERP.
-- Involved in the software development activities from end to end like: 
+- Involved in the software development activities like: 
   - participating in the requirements refinement sessions at beginning of the sprint, 
   - developing required features, 
   - participating in the code review for other colleagues, 
   - helping newcomers during their onboarding, 
-  - attending daily standups to notify my supervisor with my progress so he/she can be aware about my work buffer beside that my teammates become aware about my work especially if there is a shared work along with my task, 
+  - attending daily standups to notify my supervisor with my progress so he/she can be aware about my work buffer beside that my teammates become aware about my work especially if there is a shared work along with my task, and
   - attending retrospective meetings at the end of each sprint to discuss the progress of finished tasks to see if we can improve our process in the next sprint or not to deliver in a faster and more efficient way.
  
-### Java technologies stack: 
-  - **Backend development** [Java programming language and Spring framework (Spring boot)]
-  - **Building tool** (Maven)
-  - **RDBMS** (MySQL server)
-  - **Message broker** (ActiveMQ)
-  - **Virtualization** [vmware and Linux server (Ubuntu)]
-  - **Containerization** (Kubernetes and Docker)
-  - **Deployment automation** (Jenkins)
+### Java technologies stack:- 
+  - **Backend development**: Java programming language and Spring framework (Spring boot)
+  - **Building tool**: Maven
+  - **RDBMS**: MySQL server
+  - **Message broker**: ActiveMQ
+
+***
 
 ### Life wisdom: 😇 🎅
 
