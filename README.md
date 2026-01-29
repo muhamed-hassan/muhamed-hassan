@@ -24,19 +24,19 @@ Their shit 💩 can be:
 
 **Distinguished engineer** with several years of professional experience in Java backend development of enterprise applications using various Java technologies stack with focus on high quality, well-designed, maintainable and working software by adhering to the most common software practices and standards.
 
-- Involved in the software development activities like: 
-  - participating in the requirements refinement sessions at beginning of the sprint, 
-  - developing required features, 
-  - participating in the code review for other colleagues, 
-  - helping newcomers during their onboarding, 
-  - attending daily standups to notify my supervisor with my progress so he/she can be aware about my work buffer beside that my teammates become aware about my work especially if there is a shared work along with my task, and
-  - attending retrospective meetings at the end of each sprint to discuss the progress of finished tasks to see if we can improve our process in the next sprint or not to deliver in a faster and more efficient way.
+### Involved in the software development activities like: 
+* participating in the requirements refinement sessions at beginning of the sprint, 
+* developing required features, 
+* participating in the code review for other colleagues, 
+* helping newcomers during their onboarding, 
+* attending daily standups to notify my supervisor with my progress so he/she can be aware about my work buffer beside that my teammates become aware about my work especially if there is a shared work along with my task, and
+* attending retrospective meetings at the end of each sprint to discuss the progress of finished tasks to see if we can improve our process in the next sprint or not to deliver in a faster and more efficient way.
  
 ### Java technologies stack:- 
-  - **Backend development**: Java programming language and Spring framework (Spring boot)
-  - **Building tool**: Maven
-  - **RDBMS**: MySQL server
-  - **Message broker**: ActiveMQ
+* **Backend development**: Java programming language and Spring framework (Spring boot)
+* **Building tool**: Maven
+* **RDBMS**: MySQL server
+* **Message broker**: ActiveMQ
 
 ***
 
