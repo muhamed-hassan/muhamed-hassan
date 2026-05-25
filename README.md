@@ -1,10 +1,10 @@
 ![giphy](https://github.com/user-attachments/assets/8d4b295f-9cf5-4f56-883e-718699c8e489)
 
-### [Life wisdom: 😇 🎅](https://youtu.be/05XXEfn-6vM)
+## Life wisdom: 😇 🎅
 
 "We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us."
 
-"[Strong man 😇, strong alone 💪](https://youtu.be/jmnTUkv8n1g). Not as countryside savage dogs do."
+"Strong man 😇, strong alone 💪. Not as countryside savage dogs do."
 
 [**SELF-STUDY**](https://en.wikipedia.org/wiki/Autodidacticism) materials are made to fuck (هينيك ويذل فى دين أمك) the countryside savage dogs who are not educated at all and do nasty things when they become [instructor if they worked as teacher, teaching assistant, professor, ... etc](https://github.com/muhamed-hassan/safe_planet/wiki/Crazy-instructors). 
 
@@ -40,7 +40,7 @@ Their shit 💩 can be:
 
 ***
 
-### Life wisdom: 😇 🎅
+## Life wisdom: 😇 🎅
 
 **`Talk is Cheap | Show me the code |=> 👨🏻‍💻 🙌🏼 💪🏼`** which means you can detect the mother fucker thug from his\her fake code samples which acts originaly as an undercover terrorist inside the job market using templated profiles to decieve others in order to corrupt a country. الفلاحين البرية الغير مستأنسة الغير قابلة للترويض أى كلاب همجية ولا يصح معاملتهم كبشريين.
 
