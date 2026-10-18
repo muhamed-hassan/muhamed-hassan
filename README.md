@@ -2,7 +2,7 @@
 
 ## Life wisdom: 😇 🎅
 
-"We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us."
+"We are anonymous. We are legion. We do not forgive. We do not forget. Expect us."
 
 "Strong man 😇, strong alone 💪. Not as countryside savage dogs do."
 
